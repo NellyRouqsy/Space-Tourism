@@ -27,9 +27,9 @@
     margin-top: 25px;
 }
 .middiv4{
-    width: 570px;
+    width: 450px;
     margin-top: 45px;
-    margin-right: 240px;
+    margin-right: 220px;
     color: #FFFFFF0A;
 }
 .rightdiv4{
@@ -89,7 +89,7 @@
 .contacttext{
     display: flex;
     justify-content: space-between;
-    width: 1200px;
+    width: 800px;
     margin-top: 40px;
     margin-left: 145px;
 }
@@ -129,4 +129,5 @@
     margin: 0px;
     padding: 0px;
     margin-top: -65px;
+    margin-left: -50px;
 }

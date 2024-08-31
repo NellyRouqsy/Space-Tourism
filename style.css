@@ -27,18 +27,18 @@
     margin-top: 25px;
 }
 .navmid{
-    width: 500px;
+    width: 450px;
     margin-top: 45px;
     margin-right: 150px;
     color: #FFFFFF0A;
 }
 .navright{
-    width: 840px;
+    width: 720px;
     background-image: url(./images/Rectangle.png);
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
-    margin-left: -300px;
+    margin-left: -250px;
 }
 .navrightmain{
     width: 460px;
@@ -47,7 +47,7 @@
     display: flex;
     justify-content: space-between;
     margin-top: 35px;
-    margin-left: 150px;    
+    margin-left: 95px;    
     font-family: Barlow Condensed;
     line-height: 19.2px;
     letter-spacing: 2.700000047683716px;
@@ -124,7 +124,4 @@
 .heroexplore a{
     text-decoration: none;
     color: #0B0D17;  
-}
-.heroexplore a:hover{
-   
 }

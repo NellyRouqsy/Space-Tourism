@@ -26,7 +26,7 @@
     margin-top: 25px;
 }
 .middiv1{
-    width: 550px;
+    width: 450px;
     margin-top: 45px;
     margin-right: 220px;
     color: #FFFFFF0A;
@@ -88,7 +88,7 @@
 .abtmecontent{
     display: flex;
     justify-content: space-between;
-    width: 1120px;
+    width: 900px;
     margin-top: 40px;
     margin-left: 140px;
 }
@@ -153,13 +153,13 @@
     margin-top: 25px;
 }
 .middiv2{
-    width: 520px;
+    width: 450px;
     margin-top: 45px;
     margin-right: 220px;
     color: #FFFFFF0A;
 }
 .rightdiv2{
-    width: 740px;
+    width: 700px;
     background-image: url(./images/Rectangle\ \(2\).svg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -193,7 +193,7 @@
     width: 170px;
     display: flex;
     justify-content: space-between;
-    margin-left: 170px;
+    margin-left: 150px;
     margin-top: 60px;
     p{
         width: 30px;
@@ -220,7 +220,7 @@
     justify-content: space-between;
     width: 1050px;
     margin-top: 40px;
-    margin-left: 170px;
+    margin-left: 150px;
 }
 .prjcontenttext{
     h2{
@@ -234,14 +234,14 @@
         margin-top: 45px;
     }
     h3{
-        width: 700px;
+        width: 650px;
         height: 64px;
         font-family: Bellefair;
-        font-size: 55px;
+        font-size: 51px;
         font-weight: 400;
         line-height: 64.18px;
         color: #FFFFFF; 
-        margin-top: 45px;               
+        margin-top: 45px;            
     }
     p{
         width: 444px;
