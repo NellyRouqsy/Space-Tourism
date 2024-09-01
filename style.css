@@ -9,6 +9,7 @@
     border: 1px solid;
     margin: 0px auto;
     background-image: url(./images/Bitmap.svg);
+    background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
 }
